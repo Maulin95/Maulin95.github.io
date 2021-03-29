@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+![Malware.jpg]({{site.baseurl}}/_posts/Malware.jpg)
 Cyber Security is the most important aspect of the computer field. Since mid 19s computer security becomes the biggest question for any IT company. Moreover, the usage of computers gets increases which enhances vulnerabilities even more. Since then every year experts find new ways to hack into someone's computer. 
 
 Introduction: 
@@ -16,8 +17,6 @@ Here are commonly used in Cyber Attacks:
 5. SQL Injection
 
 Here is a small history of common Cyberattacks:
-
-![Malware.jpg]({{site.baseurl}}/_posts/Malware.jpg)
 
 1.) Malware: A software specially designed with an intention of computer or network destructions. Each malware type has different functions that ultimately destroy your either network or your computer. Since 1970 malware vastly evolves itself. It becomes more destructible than ever. Each year people have been witnessed numbers of different malware, here are few famous types of malware:
 - Computer Viruses                             
