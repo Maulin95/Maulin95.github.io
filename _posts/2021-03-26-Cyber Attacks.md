@@ -23,12 +23,14 @@ Here is a small history of common Cyberattacks:
 - Rootkits
 - Backdoors
 - Spyware
+
 2.) Phishing: It is an event where victims are being contacted via email, phone calls, or any messaging systems. In this process attacker posing as a legit user of some institute or create dummy website to collect victims sensitive information like password, bank information or other details. Assailant mostly targets non-technical individuals either from large companies or from remote areas. To avoid such attacks, it is important to spread awareness among employees and other individuals. Here are some common types of phishing techniques:
 - Clone Phishing
 - Email Phishing
 - Spear Phishing
 - SMS Phishing
 - Voice Phishing
+
 3.) Man in the middle: An attack where a third-party person intercepts the communication between two parties without their consent. In some cases, an attacker can inject new messages or it can manipulate the original message as well. MITM attack only succeeds if the attacker provides sufficient evidence to prove him or herself as an authentic user. Various types of encryption are in use to prevent such MITM attacks. Following are the types of MITM:
 - ARP Spoofing
 - DNS Spoofing
@@ -37,10 +39,12 @@ Here is a small history of common Cyberattacks:
 - Rogue Access Point
 - Session Hijacking
 - SSL Stripping
+
 4.) DOS/DDOS attack: A Denial of Service attack is usually used by an attacker when it requires some network to its knees. Usually in this attack culprit consumes all of the resources of the victim's computer or a network via flooding too many requests. Over time DOS attack gets outdated and it comes up with a newer version and known as the DDOS (Disturbed Denial of Service) attack. A DDOS attack involves multiple sources of attacking to a single victim therefore in major cases it is really hard to block or stop such attacks. Here are various categories of DOS/DDOS attacks:
 - Application Layer attacks
 - Protocol attacks
 - Volumetric attacks
+
 5.) SQL injection: This attack usually targets the database systems. Generally, this technique is used by every attacker when the source of the information is web hacking. SQL injection injects malicious code in the original request done by the client or in some cases it manipulate the client's original requests. Such code is extra arguments of SQL commands which get includes in the input space along with other SQL queries. Such attacks result in data tampering, voiding transactions, changing balances, destroying entire databases, and many other destructions. Following are the types of  SQL injection:
 - Authentication Bypass
 - Information Disclosure
