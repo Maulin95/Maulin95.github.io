@@ -18,12 +18,12 @@ avatar: https://avatars.githubusercontent.com/u/81281286?s=400&u=a4ae98d59c89e57
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: volfsniper@gmail.com
+  email:volfsniper@gmail.com
   facebook:
   flickr:
-  github: https://github.com/Maulin95
-  instagram: https://www.instagram.com/maulinshh/
-  linkedin: 
+  github: barryclark/jekyll-now
+  instagram: maulinshh
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
