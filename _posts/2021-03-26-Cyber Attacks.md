@@ -48,7 +48,10 @@ An attack where a third-party person intercepts the communication between two pa
 - Session Hijacking
 - SSL Stripping
 
-4.) DOS/DDOS attack: A Denial of Service attack is usually used by an attacker when it requires some network to its knees. Usually in this attack culprit consumes all of the resources of the victim's computer or a network via flooding too many requests. Over time DOS attack gets outdated and it comes up with a newer version and known as the DDOS (Disturbed Denial of Service) attack. A DDOS attack involves multiple sources of attacking to a single victim therefore in major cases it is really hard to block or stop such attacks. Here are various categories of DOS/DDOS attacks:
+4.) DOS/DDOS attack: 
+![](/images/dos-vs-ddos.jpg)
+
+A Denial of Service attack is usually used by an attacker when it requires some network to its knees. Usually in this attack culprit consumes all of the resources of the victim's computer or a network via flooding too many requests. Over time DOS attack gets outdated and it comes up with a newer version and known as the DDOS (Disturbed Denial of Service) attack. A DDOS attack involves multiple sources of attacking to a single victim therefore in major cases it is really hard to block or stop such attacks. Here are various categories of DOS/DDOS attacks:
 - Application Layer attacks
 - Protocol attacks
 - Volumetric attacks
