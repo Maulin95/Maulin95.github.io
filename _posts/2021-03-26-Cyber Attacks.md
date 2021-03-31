@@ -27,7 +27,7 @@ A software specially designed with an intention of computer or network destructi
 - Backdoors
 - Spyware
 
-2.) Phishing: ![](/_posts/phishing_header.jpg)
+2.) Phishing: ![](/_posts /phishing_header.jpg)
 It is an event where victims are being contacted via email, phone calls, or any messaging systems. In this process attacker posing as a legit user of some institute or create dummy website to collect victims sensitive information like password, bank information or other details. Assailant mostly targets non-technical individuals either from large companies or from remote areas. To avoid such attacks, it is important to spread awareness among employees and other individuals. Here are some common types of phishing techniques:
 - Clone Phishing
 - Email Phishing
