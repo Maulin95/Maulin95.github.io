@@ -17,7 +17,8 @@ Here are commonly used in Cyber Attacks:
 
 Here is a small history of common Cyberattacks:
 
-1.) Malware: A software specially designed with an intention of computer or network ![](/images/Malware.jpg)destructions. Each malware type has different functions that ultimately destroy your either network or your computer. Since 1970 malware vastly evolves itself. It becomes more destructible than ever. Each year people have been witnessed numbers of different malware, here are few famous types of malware:
+1.) Malware: ![](/images/Malware.jpg)
+A software specially designed with an intention of computer or network destructions. Each malware type has different functions that ultimately destroy your either network or your computer. Since 1970 malware vastly evolves itself. It becomes more destructible than ever. Each year people have been witnessed numbers of different malware, here are few famous types of malware:
 - Computer Viruses                             
 - Ransomware
 - Trojan horses
