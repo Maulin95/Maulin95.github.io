@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 Cyber Security is the most important aspect of the computer field. Since mid 19s computer security becomes the biggest question for any IT company. Moreover, the usage of computers gets increases which enhances vulnerabilities even more. Since then every year experts find new ways to hack into someone's computer. 
 
@@ -56,7 +56,10 @@ A Denial of Service attack is usually used by an attacker when it requires some 
 - Protocol attacks
 - Volumetric attacks
 
-5.) SQL injection: This attack usually targets the database systems. Generally, this technique is used by every attacker when the source of the information is web hacking. SQL injection injects malicious code in the original request done by the client or in some cases it manipulate the client's original requests. Such code is extra arguments of SQL commands which get includes in the input space along with other SQL queries. Such attacks result in data tampering, voiding transactions, changing balances, destroying entire databases, and many other destructions. Following are the types of  SQL injection:
+5.) SQL injection: 
+![](/images/sql-injection.jpg)
+
+This attack usually targets the database systems. Generally, this technique is used by every attacker when the source of the information is web hacking. SQL injection injects malicious code in the original request done by the client or in some cases it manipulate the client's original requests. Such code is extra arguments of SQL commands which get includes in the input space along with other SQL queries. Such attacks result in data tampering, voiding transactions, changing balances, destroying entire databases, and many other destructions. Following are the types of  SQL injection:
 - Authentication Bypass
 - Information Disclosure
 - Compromised Dara integrity
