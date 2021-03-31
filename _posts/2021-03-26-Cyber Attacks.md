@@ -39,6 +39,7 @@ It is an event where victims are being contacted via email, phone calls, or any 
 
 3.) Man in the middle: 
 ![](/images/man-in-the-middle-mitm-attack.png)
+
 An attack where a third-party person intercepts the communication between two parties without their consent. In some cases, an attacker can inject new messages or it can manipulate the original message as well. MITM attack only succeeds if the attacker provides sufficient evidence to prove him or herself as an authentic user. Various types of encryption are in use to prevent such MITM attacks. Following are the types of MITM:
 - ARP Spoofing
 - DNS Spoofing
