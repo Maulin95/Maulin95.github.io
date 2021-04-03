@@ -10,6 +10,7 @@ Graduate from Ganpat University in 2015.
 Acquire Bachelor degree in Information Technologies for networking.
 Graduate from Mohawk College in 2018.
 Obtain diploma in software support in various languages.
+Having a keen interest in writing <b>Technical Blogs</b> about technologies, products or technical services.
 
 <br>Following are my Technical skills:
 
