@@ -4,9 +4,16 @@ title: Introduction
 published: true
 ---
 
-Hello, This is Maulin Shah.
+Hello, My self Maulin Shah.
 I am currently employed at Evertz as a Field Service Engineer.
 Graduate from Ganpat University in 2015.
-Having keen interest in networking technologies.
+Acquire Bachelor degree in Information Technologies for networking.
+Graduate from Mohawk College in 2018.
+Obtain diploma in software support in various languages.
+
+Following are my Technical skills:
+
+Operating Systems: Microsoft Windows, Linux, Mac
+<br>Tech. Languages: Python, Reflex, Java
 
 
