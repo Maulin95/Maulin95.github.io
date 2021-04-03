@@ -13,7 +13,7 @@ Obtain diploma in software support in various languages.
 
 <br>Following are my Technical skills:
 
-Operating Systems: Microsoft Windows, Linux, Mac
+Operating Systems: Microsoft Windows, Linux, Mac, Windows server 2008 R2
 <br>Tech. Languages: Python, Reflex, Java, HTML, CSS
 <br>Ticketing Platforms: JIRA, Confluence
 <br>Meeting Tools: Microsoft Teams, Zoom, Team viewer, Skype
