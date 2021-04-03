@@ -14,6 +14,8 @@ Hello, My self Maulin Shah.
 <br>Following are my Technical skills:
 
 Operating Systems: Microsoft Windows, Linux, Mac
-<br>Tech. Languages: Python, Reflex, Java
+<br>Tech. Languages: Python, Reflex, Java, HTML, CSS
+<br>Ticketing Platforms: JIRA, Confluence
+<br>Meeting Tools: Microsoft Teams, Zoom, Team viewer, Skype
 
 
