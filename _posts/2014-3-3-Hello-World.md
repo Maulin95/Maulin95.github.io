@@ -16,5 +16,5 @@ Having a keen interest in writing <b>Technical Blogs</b> about technologies, pro
 
 Operating Systems: Microsoft Windows, Linux, Mac, Windows server 2008 R2
 <br>Tech. Languages: Python, Reflex, Java, HTML, CSS
-<br>Project management Platforms: JIRA, Confluence, Ofice 365 & G-suite, Smart sheet
+<br>Project management Platforms: JIRA, Confluence, Ofice 365 & G-suite, Smart shee
 <br>Meeting Tools: Microsoft Teams, Zoom, Team viewer, Skype
